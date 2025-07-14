@@ -1,0 +1,23 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VSCode settings
+.vscode/
+
+# PyCharm
+.idea/
+
+# Log files
+*.log
+
+# Model and data files
+trained_policy_net.pth
+user_replay_data.npy
+
+# User session data
+user_sessions/
+
+# Streamlit cache
+.streamlit/
